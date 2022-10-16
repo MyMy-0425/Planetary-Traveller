@@ -1,0 +1,17 @@
+.w{
+    height: 100%;
+    width: 1190px;
+    margin: 0 auto;
+}
+
+.fl{
+    float: left;
+}
+
+.fr{
+    float: right;
+}
+
+.style-green{
+    color: #2ca060;
+}
